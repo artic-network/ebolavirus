@@ -1,4 +1,4 @@
-name,country,accession,name,date,range,outbreak,exclude?,notes
+label,country,accession,name,date,range,outbreak,exclude?,notes
 KR063671|Yambuku-Mayinga|DRC|1976-10-01,DRC,KR063671,Yambuku-Mayinga,1976-10-01,,Yambuku/1976,,
 KC242801|deRoover|DRC|1976-09,DRC,KC242801,deRoover,1976-09,,Yambuku/1976,y, 'de Roover' name of patient
 KM655246|Yambuku-Ecran|DRC|1976-09,DRC,KM655246,Yambuku-Ecran,1976-09,,Yambuku/1976,y, 'Ecran' name of patient; date from Kuhn et al but not definative
