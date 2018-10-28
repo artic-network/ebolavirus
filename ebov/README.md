@@ -48,3 +48,14 @@ The columns are as follows:
 `notes` - notes about the derivation of the data where not explicit.
 
 ## EBOV_Outbreak_Genomes.csv
+
+`name`
+`country`
+`accession`
+`name`
+`date`
+`max_date`
+`range` - the
+`outbreak` - the outbreak name referring to `EBOV_Outbreaks.csv`
+`exclude?` - whether this genome is excluded from the strict one-per-outbreak list.
+`notes` - notes about the derivation of the data where not explicit.
