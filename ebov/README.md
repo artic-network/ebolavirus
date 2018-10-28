@@ -43,7 +43,11 @@ The columns are as follows:
 
 `reference` - the primary reference for these data.
 
+`reference_url` - the url for the primary reference.
+
 `reference2` - a secondary reference.
+
+`reference2_url` - the url for the secondary reference.
 
 `notes` - notes about the derivation of the data where not explicit.
 
