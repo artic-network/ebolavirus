@@ -1,7 +1,8 @@
-This is a list of known human outbreaks of Ebola virus (EBOV - formerly known as Zaire species or ZEBOV). It is in comma-separated values (CSV) format with Unix line endings.
+This is a list of known human outbreaks of Ebola virus (EBOV - formerly known as Zaire species or ZEBOV) and a list of EBOV genomes with associated metadata (the sequences are not present but Genbank accession numbers are given). They are in comma-separated values (CSV) format with Unix line endings.
 
 Where possible the dates and locations represent that of the earliest cases (i.e., closest to the origin of the outbreak).
 
+## EBOV_Outbreaks.csv
 The columns are as follows:
 
 `outbreak` - a label for the outbreak with a primary location and a year.
@@ -45,3 +46,5 @@ The columns are as follows:
 `reference2` - a secondary reference.
 
 `notes` - notes about the derivation of the data where not explicit.
+
+## EBOV_Outbreak_Genomes.csv
