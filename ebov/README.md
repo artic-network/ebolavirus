@@ -49,13 +49,18 @@ The columns are as follows:
 
 ## EBOV_Outbreak_Genomes.csv
 
-`name`
-`country`
-`accession`
-`name`
-`date`
-`max_date`
-`range` - the
+`label` - label used for genome
+
+`country` - the country of origin (ISO 3166 3 letter codes)
+
+`accession` - the Genbank accession number
+
+`name` - the name of the sample or isolate
+
+`date` - date of sampling (may be missing day or month if unknown).
+
+`range` - the range of possible dates based on outbreak dates (free text)
+
 `outbreak` - the outbreak name referring to `EBOV_Outbreaks.csv`
 `exclude?` - whether this genome is excluded from the strict one-per-outbreak list.
 `notes` - notes about the derivation of the data where not explicit.
