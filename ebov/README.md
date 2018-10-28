@@ -62,5 +62,7 @@ The columns are as follows:
 `range` - the range of possible dates based on outbreak dates (free text)
 
 `outbreak` - the outbreak name referring to `EBOV_Outbreaks.csv`
+
 `exclude?` - whether this genome is excluded from the strict one-per-outbreak list.
+
 `notes` - notes about the derivation of the data where not explicit.
