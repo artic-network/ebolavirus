@@ -1,0 +1,33 @@
+name,country,accession,name,,date,max_date,range,outbreak,exclude?,notes
+KR063671|Yambuku-Mayinga|DRC|1976-10-01,DRC,KR063671,Yambuku-Mayinga,,1976-10-01,,,Yambuku/1976,,
+KC242801|deRoover|DRC|1976-09,DRC,KC242801,deRoover,,1976-09,,,Yambuku/1976,y, 'de Roover' name of patient
+KM655246|Yambuku-Ecran|DRC|1976-09,DRC,KM655246,Yambuku-Ecran,,1976-09,,,Yambuku/1976,y, 'Ecran' name of patient; date from Kuhn et al but not definative
+KC242791|Bonduni|DRC|1977-06,DRC,KC242791,Bonduni,,1977-06,,,Bonduni/1977,,
+KC242792|Gabon|Gabon|1994-12-27,GAB,KC242792,Gabon,,1994-12-27,,,Minkebe/1994,,Date from Amblard et al (1997) Lancet
+KU182905|Kikwit-9510621|DRC|1995-05-04,DRC,KU182905,Kikwit-9510621,,1995-05-04,,,Kikwit/1995,,
+KC242799|13709_Kikwit|DRC|1995-06-17,DRC,KC242799,13709_Kikwit,,1995-06-17?,,,Kikwit/1995,y,Date is last from this outbreak? Not sure why.
+KC242793|1Eko|Gabon|1996-02,GAB,KC242793,1Eko,,1996-02,,,Mayibout/1996,,Inferred as Mayibout due to genetic proximity to EBOV|EU051639_HQ849547|Mayibout|Gabon|1996 - genome fragments.
+KC242795|1Mbie|Gabon|1996-02,GAB,KC242795,1Mbie,,1996-02,,,Mayibout/1996,y,Dates are Feb-8 or Feb-22 from Georges-Courbot et al (1997) Emerg Infect Dis
+KC242797|1Oba|Gabon|1996-02,GAB,KC242797,1Oba,,1996-02,,,Mayibout/1996,y,
+KC242794|2Nza|Gabon|1996-10-27,GAB,KC242794,2Nza,,1996-10-27?,,,Booue/1996,y,Inferred as Booue due to genetic proximity to EBOV|AY058898|Bouee_96|Gabon|1996 - genome fragments.
+KC242798|1Ikot|Gabon|1996-10-27,GAB,KC242798,1Ikot,,1996-10-27,,,Booue/1996,,Date of sampling from Georges-Courbot et al (1997) Emerg Infect Dis
+KY471124|inoculum_strain_Gabon||Gabon|2001-11-30,GAB,KY471124,inoculum_strain_Gabon,Makokou,2001-11-30,,,Mekambo/2001,y,Date of sampling from WHO WER June 2003
+KC242800|Ilembe|Gabon|2002-02-23,GAB,KC242800,Ilembe,,2002-02-23,,,Mekambo/2001,,"Pers comm from Eric Leroy: ""Ilembe is the last name of a patient who died of Ebola infection. She lived in the town of Makokou. She was 77 years old. She was sampled on 23 February 2002, the same day of her death."""
+KF113528|Kelle_1|COG|2003-10,COG,KF113528,Kelle_1,,2003-10,,,Mbomo/2003,y,Outbreak: Oct-Dec 2003
+KF113529|Kelle_2|COG|2003-10,COG,KF113529,Kelle_2,,2003-10,,,Mbomo/2003,,Outbreak: Oct-Dec 2003
+KC242784|9_Luebo|DRC|2007,DRC,KC242784,9_Luebo,,2007-,,,Luebo/2007,y,Outbreak: May-Nov 2007
+KC242785|0_Luebo|DRC|2007,DRC,KC242785,0_Luebo,,2007-,,,Luebo/2007,y,Outbreak: May-Nov 2007
+KC242786|1_Luebo|DRC|2007,DRC,KC242786,1_Luebo,,2007-,,,Luebo/2007,y,Outbreak: May-Nov 2007
+KC242787|23_Luebo|DRC|2007,DRC,KC242787,23_Luebo,,2007-,,,Luebo/2007,y,Outbreak: May-Nov 2007
+KC242789|4_Luebo|DRC|2007,DRC,KC242789,4_Luebo,,2007-,,,Luebo/2007,y,Outbreak: May-Nov 2007
+KC242790|5_Luebo|DRC|2007,DRC,KC242790,5_Luebo,,2007-,,,Luebo/2007,y,Outbreak: May-Nov 2007
+KC242788|43_Luebo|DRC|2007,DRC,KC242788,43_Luebo,,2007-,,,Luebo/2007,y,Outbreak: May-Nov 2007
+HQ613403|M-M|DRC|2007-08-31,DRC,HQ613403,M-M,,2007-08-31,,,Luebo/2007,,
+HQ613402|034-KS|DRC|2008-12-31,DRC,HQ613402,034-KS,,2008-12-31,,,Luebo/2008,,
+KJ660347|Makona-Gueckedou-C07|Guinea|2014-03-20,GIN,KJ660347,Makona-Gueckedou-C07,,2014-03-20,,,West_Africa/2013,,
+KP271018|Lomela-Lokolia16|DRC|2014-08-20,DRC,KP271018,Lomela-Lokolia16,,2014-08-20,,,Boende-Lokolia/2014,,
+KP271020|Lomela-Lokolia19|DRC|2014-08-20,DRC,KP271020,Lomela-Lokolia19,,2014-08-20,,,Boende-Lokolia/2014,y,
+KM519951|Boende-Lokolia|DRC|2014,DRC,KM519951,Boende-Lokolia,,2014-08,2014-10-04,,Boende-Lokolia/2014,y,
+MH613311|Muembe.1|DRC|2017-05,DRC,MH613311,Muembe.1,,2017-05-07,,,Likati/2017,,Sampling date taken from MH481611 (same sample?)
+MH733477|BIK009-Bikoro|DRC|2018-05-10,DRC,MH733477,BIK009,,2018-05-10,,,Bikoro-Mbandaka/2018,,
+MK007330|18FHV090-Beni|DRC|2018-07-28,DRC,MK007330,18FHV090,,2018-07-28,,,Kivu/2018,,
