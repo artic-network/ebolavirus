@@ -28,6 +28,9 @@ KJ660347|Makona-Gueckedou-C07|Guinea|2014-03-20,GIN,KJ660347,Makona-Gueckedou-C0
 KP271018|Lomela-Lokolia16|DRC|2014-08-20,DRC,KP271018,Lomela-Lokolia16,2014-08-20,,Boende-Lokolia/2014,,
 KP271020|Lomela-Lokolia19|DRC|2014-08-20,DRC,KP271020,Lomela-Lokolia19,2014-08-20,,Boende-Lokolia/2014,y,
 KM519951|Boende-Lokolia|DRC|2014,DRC,KM519951,Boende-Lokolia,2014-08,,Boende-Lokolia/2014,y,
-MH613311|Muembe.1|DRC|2017-05,DRC,MH613311,Muembe.1,2017-05-07,,Likati/2017,,Sampling date taken from MH481611 (same sample?)
+MH613311|Muembe.1|DRC|2017-05,DRC,MH613311,Muembe.1,2017-05-07,,Likati/2017,,Sampling date taken from MH481611 (same sample? Sequences identical except ambiguities and terminal positions ) - Case 7 sequenced in Nsio et. al (https://doi.org/10.1093/infdis/jiz107) onset April 30 - death 09 
 MH733477|BIK009-Bikoro|DRC|2018-05-10,DRC,MH733477,BIK009,2018-05-10,,Bikoro-Mbandaka/2018,,
 MK007330|18FHV090-Beni|DRC|2018-07-28,DRC,MK007330,18FHV090,2018-07-28,,Kivu/2018,,
+OR084849|Mandaka|DRC|2020-05-31,DRC,OR084849,Mandaka,2020-05-31,,Equateur/2020,,
+OR084846|MBK67|DRC|2020-06-12,DRC,OR084846,MBK67,2020-06-12,,Equateur/2020,,Tumba like - initially thought to be re-emergence of 2018 although no known link and epidemiological links to animals
+|22MBK-004|DRC|2022-04-25,DRC,,22MBK-004,2022-04-25,,Équateur/2022,,https://virological.org/t/april-2022-ebola-virus-disease-case-in-equateur-province-drc-represents-a-new-spillover-event/795 case 2 
